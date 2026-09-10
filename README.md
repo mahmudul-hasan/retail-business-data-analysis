@@ -30,16 +30,14 @@ This repository contains SQL scripts and database modeling exercises focused on 
 ## 📂 Repository Structure
 
 ```
-├── sql/
-│   └── BDA_2026_2_p1_1.sql       # Main SQL script with DDL, DML, and Analytical Queries
-├── data/
+├── BDA_2026_2_p1_1.sql       # Main SQL script with DDL, DML, and Analytical Queries
+├── input_files/
 │   ├── mosh_customers.csv        # Imported customer profiles & loyalty points data
 │   ├── mosh_products.csv         # Product catalog and unit prices
 │   ├── mosh_invoices.csv         # Invoice history, totals, and due dates
 │   ├── mosh_payments.csv         # Payment transactions and client IDs
 │   └── mosh_payment_methods.csv  # Mapping of payment method IDs to descriptions
 ├── README.md                     # Project documentation
-└── .gitignore                    # standard Git ignore file
 ```
 
 ---
