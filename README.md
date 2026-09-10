@@ -1,4 +1,4 @@
-# Big Data Analytics - SQL Database & Query Analysis Project
+# Data Analytics - SQL Database & Query Analysis Project
 
 A comprehensive SQL database project analyzing relational schemas, client invoices, customer points, pricing tiers, and payment methods. This project features database creation scripts, data manipulation language (DML), subqueries, joins, window functions, and aggregation techniques.
 
